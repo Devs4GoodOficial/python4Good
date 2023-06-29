@@ -30,9 +30,6 @@ python3 -m pytest
 ```
 
 
-<h1 align='center'>Contato</h1>
-<p align='center'>Para mais informações, entre em contato comigo por meio das seguintes redes sociais:</p>
-<p align='center'>E-mail: carloshtbraga@gmail.com</p>
-<p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
-<p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
+<h1 align='center'>By www.devs4good.com.br</h1>
+
 
