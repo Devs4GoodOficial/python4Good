@@ -11,8 +11,9 @@
 Siga os passos abaixo para configurar o projeto em seu ambiente local.
 
 1. **Clone o repositório**: Comece clonando este repositório em sua máquina local usando o seguinte comando:
-
+```bash
 git clone https://github.com/Devs4GoodOficial/python4Good.git
+```
 
 
 2. **Acesse a pasta do projeto**: Navegue até o diretório do projeto usando o comando `cd`:
@@ -95,6 +96,10 @@ git push origin nome-da-sua-branch
 
 5. **Abra um Pull Request**: Acesse a página do repositório no GitHub e abra um Pull Request para que suas alterações sejam revisadas e incorporadas ao projeto.
 
-<h1 align='center'>By www.devs4good.com.br</h1>
+**Ultimo README update feito por: https://github.com/joaoespanha**
+
+
+<h1 align='center'>By www.devs4good.com.br</h1
+
 
 
